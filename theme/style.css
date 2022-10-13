@@ -1,0 +1,12 @@
+html, body {
+    margin: 20px;
+    border: 15 px solid blue;
+    padding: 50px;
+    font-size: 100%;
+    background-color: lightblue;
+    color: black;
+  }
+
+  a {
+    color: yellow;
+  }
